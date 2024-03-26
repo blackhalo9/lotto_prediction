@@ -1,1 +1,1 @@
-# lotto_prediction
+# PRICES_PREDICTION
